@@ -1,1 +1,1 @@
-# dio-desafio-criando-um-clone-do-buzzfeed-com-angular
+# Criando um Clone do BuzzFeed com Angular
